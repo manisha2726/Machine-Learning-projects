@@ -42,13 +42,6 @@ Model Evaluation
 Prediction
 Result Analysis
 
-📥 Installation
-Clone the repository:
-
-git clone https://github.com/Neha8569/Machine-Learning.git
-Navigate to the project folder:
-
-cd Machine-Learning
 Install the required dependencies:
 
 pip install -r requirements.txt
@@ -68,9 +61,9 @@ K-Nearest Neighbors (KNN)
 Support Vector Machine (SVM)
 Naive Bayes
 K-Means Clustering
+
 📊 Evaluation Metrics
 The models can be evaluated using:
-
 Accuracy
 Precision
 Recall
@@ -79,9 +72,9 @@ Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 R² Score
 Confusion Matrix
+
 📌 Requirements
 Install the following Python libraries:
-
 numpy
 pandas
 matplotlib
@@ -95,6 +88,7 @@ Hyperparameter tuning.
 Deploy models using Flask or Streamlit.
 Add deep learning projects.
 Improve documentation and visualizations.
+
 🤝 Contributing
 Contributions are welcome!
 
