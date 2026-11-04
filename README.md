@@ -118,4 +118,3 @@ This project demonstrates the implementation of Machine Learning techniques for 
 ## ⭐ Support
 If you find this project useful, please give it a star ⭐ on GitHub.
 ---
-**Made with ❤️ using Python and Machine Learning**
