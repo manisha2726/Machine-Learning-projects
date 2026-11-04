@@ -386,7 +386,5 @@ The species mapping shown in the dashboard is based on the **majority species wi
 ---
 
 ## 👤 Author
-
-**Your Name**
 Sherkar Manisha Minanath
 
